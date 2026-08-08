@@ -1,0 +1,2 @@
+# yazi-plugins
+Yazi Plugins
